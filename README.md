@@ -1,5 +1,5 @@
-# Kotone
+# Lumo
 
-Музыка, текст песен в такт и изучение языков через песни.
+Музыка с текстом в такт, латиницей под японским и корейским и переводом каждой строки.
 
-Здесь лежат только установщики для Windows: откройте [Releases](https://github.com/PesikCraft/kotone-releases/releases) и скачайте `Kotone-Setup-*.exe`. Установленный Kotone сам скачивает новые версии отсюда.
+Здесь лежат только установщики для Windows: откройте [Releases](https://github.com/PesikCraft/lumo-releases/releases) и скачайте `Lumo-Setup-*.exe`. Установленный Lumo сам скачивает новые версии отсюда.
